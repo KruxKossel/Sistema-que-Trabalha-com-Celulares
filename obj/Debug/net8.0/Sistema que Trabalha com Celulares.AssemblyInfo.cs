@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sistema que Trabalha com Celulares")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e25795fcb536494d177a0ccfbc8d56eaf3d23c1d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sistema que Trabalha com Celulares")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sistema que Trabalha com Celulares")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

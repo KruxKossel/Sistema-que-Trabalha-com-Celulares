@@ -1,0 +1,15 @@
+D:\C# projetos\Sistema que Trabalha com Celulares\bin\Debug\net8.0\Sistema que Trabalha com Celulares.exe
+D:\C# projetos\Sistema que Trabalha com Celulares\bin\Debug\net8.0\Sistema que Trabalha com Celulares.deps.json
+D:\C# projetos\Sistema que Trabalha com Celulares\bin\Debug\net8.0\Sistema que Trabalha com Celulares.runtimeconfig.json
+D:\C# projetos\Sistema que Trabalha com Celulares\bin\Debug\net8.0\Sistema que Trabalha com Celulares.dll
+D:\C# projetos\Sistema que Trabalha com Celulares\bin\Debug\net8.0\Sistema que Trabalha com Celulares.pdb
+D:\C# projetos\Sistema que Trabalha com Celulares\obj\Debug\net8.0\Sistema que Trabalha com Celulares.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projetos\Sistema que Trabalha com Celulares\obj\Debug\net8.0\Sistema que Trabalha com Celulares.AssemblyInfoInputs.cache
+D:\C# projetos\Sistema que Trabalha com Celulares\obj\Debug\net8.0\Sistema que Trabalha com Celulares.AssemblyInfo.cs
+D:\C# projetos\Sistema que Trabalha com Celulares\obj\Debug\net8.0\Sistema que Trabalha com Celulares.csproj.CoreCompileInputs.cache
+D:\C# projetos\Sistema que Trabalha com Celulares\obj\Debug\net8.0\Sistema que Trabalha com Celulares.sourcelink.json
+D:\C# projetos\Sistema que Trabalha com Celulares\obj\Debug\net8.0\Sistema que Trabalha com Celulares.dll
+D:\C# projetos\Sistema que Trabalha com Celulares\obj\Debug\net8.0\refint\Sistema que Trabalha com Celulares.dll
+D:\C# projetos\Sistema que Trabalha com Celulares\obj\Debug\net8.0\Sistema que Trabalha com Celulares.pdb
+D:\C# projetos\Sistema que Trabalha com Celulares\obj\Debug\net8.0\Sistema que Trabalha com Celulares.genruntimeconfig.cache
+D:\C# projetos\Sistema que Trabalha com Celulares\obj\Debug\net8.0\ref\Sistema que Trabalha com Celulares.dll
